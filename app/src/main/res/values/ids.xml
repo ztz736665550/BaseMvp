@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--沉浸式 StatusBarUtil -->
+<resources>
+    <item type="id" name="statusbarutil_fake_status_bar_view" />
+    <item type="id" name="statusbarutil_translucent_view" />
+</resources>
